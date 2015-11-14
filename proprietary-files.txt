@@ -1,11 +1,17 @@
-# acdb
 vendor/lib/libacdbloader.so
 vendor/lib64/libacdbloader.so
+etc/acdbdata/Handset_cal.acdb
+etc/acdbdata/workspaceFile.qwsp
 etc/acdbdata/Bluetooth_cal.acdb
+etc/acdbdata/Speaker_cal.acdb
 etc/acdbdata/General_cal.acdb
 etc/acdbdata/Global_cal.acdb
-etc/acdbdata/Handset_cal.acdb
-etc/acdbdata/Hdmi_cal.acdb
 etc/acdbdata/Headset_cal.acdb
-etc/acdbdata/Speaker_cal.acdb
-etc/acdbdata/workspaceFile.qwsp
+etc/acdbdata/Hdmi_cal.acdb
+etc/firmware/venus.mdt
+etc/firmware/venus.b00
+etc/firmware/venus.b03
+etc/firmware/venus.b02
+etc/firmware/venus.b04
+etc/firmware/venus.mbn
+etc/firmware/venus.b01
