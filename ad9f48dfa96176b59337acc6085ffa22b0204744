@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ffb9cba7_184ae726",
+        "filename": "rootdir/etc/init.device.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2016-02-12T23:36:50Z",
+      "side": 1,
+      "message": "you could leave this in g4-common and just have each variant name their fstab to fstab.g4 (save you from adding more than just the fstab here)",
+      "revId": "ad9f48dfa96176b59337acc6085ffa22b0204744",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
