@@ -1,1 +1,1 @@
-add_lunch_combo cm_h815-userdebug
+add_lunch_combo lineage_h815-userdebug
